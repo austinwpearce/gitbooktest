@@ -1,0 +1,9 @@
+﻿cotton_region,cotton_moisture_level,cotton_drying_btu,cotton_ginning_btu,btu_per_lb_lint,pct_electric_ginning,cotton_pct_electric_drying,cotton_pct_gas_drying,electric_btu,gas_btu,cotton_gas_source,category,last_updated,notes
+SE,Very Dry,100,293,393,100,10,90,303,90,LPG,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SE,Normal,300,293,593,100,10,90,323,270,LPG,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SE,Wetter than Normal,500,293,793,100,10,90,343,450,LPG,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SE,Very Wet,700,293,993,100,10,90,363,630,LPG,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SW,Very Dry,100,293,393,100,10,90,303,90,Natural gas,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SW,Normal,300,293,593,100,10,90,323,270,Natural gas,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SW,Wetter than Normal,500,293,793,100,10,90,343,450,Natural gas,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024
+SW,Very Wet,700,293,993,100,10,90,363,630,Natural gas,Drying and Ginning,4/9/2025,confirmed by Ed Barnes 2024

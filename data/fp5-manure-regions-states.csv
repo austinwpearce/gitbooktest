@@ -1,0 +1,51 @@
+﻿manure_region,state_abbrv,state,source
+Pacific Northwest,AK,Alaska,Manual
+Southeast,AL,Alabama,manureDB
+Southeast,AR,Arkansas,manureDB
+Southwest,AZ,Arizona,manureDB
+Southwest,CA,California,manureDB
+Northern Plains,CO,Colorado,manureDB
+Northeast,CT,Connecticut,manureDB
+Northeast,DE,Delaware,manureDB
+Southeast,FL,Florida,manureDB
+Southeast,GA,Georgia,manureDB
+Pacific Northwest,HI,Hawaii,Manual
+Midwest,IA,Iowa,manureDB
+Pacific Northwest,ID,Idaho,manureDB
+Midwest,IL,Illinois,manureDB
+Midwest,IN,Indiana,manureDB
+Southern Plains,KS,Kansas,manureDB
+Southeast,KY,Kentucky,manureDB
+Southeast,LA,Louisiana,Manual
+Northeast,MA,Massachusetts,manureDB
+Northeast,MD,Maryland,manureDB
+Northeast,ME,Maine,manureDB
+Midwest,MI,Michigan,manureDB
+Midwest,MN,Minnesota,manureDB
+Midwest,MO,Missouri,manureDB
+Southeast,MS,Mississippi,Manual
+Northern Plains,MT,Montana,manureDB
+Southeast,NC,North Carolina,manureDB
+Northern Plains,ND,North Dakota,manureDB
+Northern Plains,NE,Nebraska,manureDB
+Northeast,NH,New Hampshire,manureDB
+Northeast,NJ,New Jersey,manureDB
+Southwest,NM,New Mexico,manureDB
+Southwest,NV,Nevada,Manual
+Northeast,NY,New York,manureDB
+Midwest,OH,Ohio,manureDB
+Southern Plains,OK,Oklahoma,manureDB
+Pacific Northwest,OR,Oregon,manureDB
+Northeast,PA,Pennsylvania,manureDB
+Northeast,RI,Rhode Island,manureDB
+Southeast,SC,South Carolina,manureDB
+Northern Plains,SD,South Dakota,manureDB
+Southeast,TN,Tennessee,manureDB
+Southern Plains,TX,Texas,manureDB
+Southwest,UT,Utah,manureDB
+Southeast,VA,Virginia,manureDB
+Northeast,VT,Vermont,manureDB
+Pacific Northwest,WA,Washington,manureDB
+Midwest,WI,Wisconsin,manureDB
+Northeast,WV,West Virginia,manureDB
+Northern Plains,WY,Wyoming,Manual

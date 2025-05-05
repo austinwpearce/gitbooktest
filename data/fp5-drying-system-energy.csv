@@ -1,0 +1,21 @@
+﻿Drying System ,Old Name,btu_per_lb_water_removed,pct_gas,pct_electric,gas_MJ_per_kg_water,electric_MJ_per_kg_water,units,Updated,Sources and Notes
+Natural Air Only,No Drying System Used,0,0,0,0,0,MJ/kg-water removed,11/6/2024,"Sanford developed this table for FTM, confirmed 10/19/22. "
+No Heat Bin,In bin - natural air/air only,1500,0,100,0,3.48977,MJ/kg-water removed,11/6/2024,"The thermal efficiencies are the same ones that underlay the Grain Drying Tool available at ruralenergy.wisc.edu, he thinks they come from the Grain Drying Handbook (need to track down)"
+Low Temp Bin,In bin - low temperature,1650,0,100,0,3.83875,MJ/kg-water removed,11/6/2024,"Scott Sanford, Emeritus Distinguished Outreach Specialist/Extension Agricultural Engineer, University of Wisconsin, sasanford@wisc.edu"
+Combination High/Low Temp Bin,In bin - combination high temperature and air,1200,75,25,2.09386,0.69795,MJ/kg-water removed,11/6/2024,https://www.uaex.uada.edu/farm-ranch/crops-commercial-horticulture/Grain_drying_and_storage/wheat_drying_and_storage.aspx
+Continuous/Mixed Flow In Bin,In bin - high temperature-air recirculation - continuous flow/mixed flow,2000,98,2,4.55997,0.09306,MJ/kg-water removed,11/6/2024,
+High Temp Batch Dryer,Batch Dryer - high temperature-no air recirculation (Continuous flow dryer),2400,98,2,5.47196,0.11167,MJ/kg-water removed,11/6/2024,
+PTO-driven Batch Dryer,Batch Dryer PTO type - high temperature-no air recirculation,3200,98,2,7.29595,0.1489,MJ/kg-water removed,11/6/2024,
+Continuous Cross Flow Dryer,NA,3200,98,2,7.29595,0.1489,MJ/kg-water removed,11/6/2024,Surveillance-Radio-Wave-Grain-Drying-for-Beneficial-Electrification-May-2020.pdf
+Hay Dryer Without Gas Heating,NA,1600,0,100,0,3.72242,MJ/kg-water removed,11/6/2024,Reasonable values that align with Parker 1992 and Arinze 1996
+Hay Dryer With Gas Heating,NA,2200,75,25,3.83875,1.27958,MJ/kg-water removed,11/6/2024,Reasonable values that align with Parker 1992 and Arinze 1996
+Commercially Dried,Commercially dried by buyer,2000,98,2,4.55997,0.09306,MJ/kg-water removed,11/6/2024,"Off-farm default; ""average"" value"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,gas % - the percentage of energy derived from fuel (fuel oil #2) or gas (propane or natural gas) to run the grain drier
+,,,,,,,,,electric % - the percentage of energy derived from electricity to run the grain drier
+,,,,,,,,,"thermal efficiency BTU per lb h2o - the average energy efficiency of the drier, lower numbers mean more drying efficiency"
+,,,,,,,,,"relative thermal efficiency - air drying is set to 1, and all other systems are given a relative value, unsure how this is utilized"
+,,,,,,,,,"electrical usage kwh bu pct - Sanford does not know where this came from, but he is guessing it is using bad assumptions"
+,,,,,,,,,"DROPPED Relative Thermal Efficiency, Electrical usage columns as they don't appear to be used and there is some doubt to accuracy"

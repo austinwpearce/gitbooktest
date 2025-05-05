@@ -1,0 +1,57 @@
+Assessment Report (AR),Time Horizon,Gas,Global Warming Potential
+AR6,100-yr,CO2_fossil,1
+AR6,100-yr,CO2_biogenic,1
+AR6,100-yr,CH4_biogenic,27
+AR6,100-yr,CH4_fossil,29.8
+AR6,100-yr,N2O,273
+AR6,100-yr,NF3,17400
+AR6,100-yr,SF6,25200
+AR5 (with climate-carbon feedback),100-yr,CO2_fossil,1
+AR5 (with climate-carbon feedback),100-yr,CO2_biogenic,1
+AR5 (with climate-carbon feedback),100-yr,CH4_biogenic,34
+AR5 (with climate-carbon feedback),100-yr,CH4_fossil,36
+AR5 (with climate-carbon feedback),100-yr,N2O,298
+AR5 (with climate-carbon feedback),100-yr,NF3,17885
+AR5 (with climate-carbon feedback),100-yr,SF6,26087
+AR5 (without climate-carbon feedback),100-yr,CO2_fossil,1
+AR5 (without climate-carbon feedback),100-yr,CO2_biogenic,1
+AR5 (without climate-carbon feedback),100-yr,CH4_biogenic,28
+AR5 (without climate-carbon feedback),100-yr,CH4_fossil,30
+AR5 (without climate-carbon feedback),100-yr,N2O,265
+AR5 (without climate-carbon feedback),100-yr,NF3,16100
+AR5 (without climate-carbon feedback),100-yr,SF6,23500
+AR4,100-yr,CO2_fossil,1
+AR4,100-yr,CO2_biogenic,1
+AR4,100-yr,CH4_biogenic,25
+AR4,100-yr,CH4_fossil,25
+AR4,100-yr,N2O,298
+AR4,100-yr,NF3,17200
+AR4,100-yr,SF6,22800
+AR6,20-yr,CO2_fossil,1
+AR6,20-yr,CO2_biogenic,1
+AR6,20-yr,CH4_biogenic,79.7
+AR6,20-yr,CH4_fossil,82.5
+AR6,20-yr,N2O,273
+AR6,20-yr,NF3,13400
+AR6,20-yr,SF6,18300
+AR5 (with climate-carbon feedback),20-yr,CO2_fossil,1
+AR5 (with climate-carbon feedback),20-yr,CO2_biogenic,1
+AR5 (with climate-carbon feedback),20-yr,CH4_biogenic,86
+AR5 (with climate-carbon feedback),20-yr,CH4_fossil,87
+AR5 (with climate-carbon feedback),20-yr,N2O,268
+AR5 (with climate-carbon feedback),20-yr,NF3,13008
+AR5 (with climate-carbon feedback),20-yr,SF6,17783
+AR5 (without climate-carbon feedback),20-yr,CO2_fossil,1
+AR5 (without climate-carbon feedback),20-yr,CO2_biogenic,1
+AR5 (without climate-carbon feedback),20-yr,CH4_biogenic,84
+AR5 (without climate-carbon feedback),20-yr,CH4_fossil,85
+AR5 (without climate-carbon feedback),20-yr,N2O,264
+AR5 (without climate-carbon feedback),20-yr,NF3,12800
+AR5 (without climate-carbon feedback),20-yr,SF6,17500
+AR4,20-yr,CO2_fossil,1
+AR4,20-yr,CO2_biogenic,1
+AR4,20-yr,CH4_biogenic,72
+AR4,20-yr,CH4_fossil,72
+AR4,20-yr,N2O,289
+AR4,20-yr,NF3,12300
+AR4,20-yr,SF6,16300

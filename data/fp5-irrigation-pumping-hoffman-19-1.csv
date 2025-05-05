@@ -1,0 +1,6 @@
+Pumping Energy Source,Fuel Type,units,Representative energy content,Power unit brake energy ouput per unit fuel,Thermal efficiency,Performance criteria,Fuel used per 1000 m3 volume and 100-m lift,Fuel used units
+Diesel (ag equipment),Diesel,MJ/L,39.02,11.81,0.303,8.86,111,L
+LPG,Propane,MJ/L,26.34,6.51,0.247,4.88,210,L
+Natural gas,Natural gas,MJ/m3,34.46,7.79,0.226,5.84,168,m3
+Gasoline,Gasoline,MJ/L,34.56,8.16,0.236,6.12,160,L
+Electricity (grid),Electricity,MJ/kWh,3.6,3.26,0.906,2.45,400,kWh

@@ -1,0 +1,21 @@
+﻿method,method_specific,units,application_efficiency_range,application_efficiency_avg,evaporated,consumed_use_avg,return_flow_avg,Source,URL
+Surface,Graded Furrow ​​,percent,50 – 80 ​​,65,5,70,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Surface,Graded Furrow w/ tailwater reuse ​​,percent,60 – 90 ​,75,5,80,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Surface,Level Furrow,percent,65 – 95 ​,80,5,85,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Surface,Graded Border,percent,50 – 80 ​​,65,5,70,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Surface,Level Basins,percent,80 – 95 ​​,85,5,90,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Surface,Flood,percent,35 – 60 ​,50,5,55,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Sprinkler,Periodic Move (Handline) ​​,percent,60 – 85 ​​,75,10,85,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Sprinkler,Side Roll (Wheelline) ​​,percent,60 – 85 ​​,75,10,85,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Sprinkler,Moving Big Gun ​​,percent,55 – 75 ​​,65,10,75,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Sprinkler,Solid-Set—Overtree,percent,55 – 80 ​,70,15,85,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Sprinkler,Solid Set--Undertree,percent,60 – 85 ​​,75,10,85,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Sprinkler,Pop-Up Impact,percent,60 – 85 ​​,75,10,85,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Center-Pivot,Impact heads w/end gun ​,percent,75 – 90 ​​,80,15,95,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Center-Pivot,Spray heads w/o end gun ​​,percent,75 – 95 ​​,90,10,100,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Center-Pivot,LEPA w/o end gun ​​,percent,80 – 98 ​​,92,5,97,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Lateral-Move,Spray heads w/hose feed ​​,percent,75 – 95 ​​,90,10,100,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Lateral-Move,Spray heads w/canal feed ​​,percent,70 – 95 ​,85,10,95,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Microirrigation,Trickle/Drip,percent,70 – 95 ​,88,5,93,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Microirrigation,Subsurface Drip,percent,75 – 95 ​​,90,0,90,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html
+Microirrigation,Microspray,percent,70 – 95 ​,85,10,95,,Washington State Dept of Ecology (Table 1),https://apps.ecology.wa.gov/publications/summarypages/2011076.html

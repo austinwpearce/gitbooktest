@@ -1,0 +1,23 @@
+---
+title: "Tables for FPP 5.0"
+subtitle: "v5.0 in progress" # unclear what version we're on
+date-modified: 2024-09-10 # update to the documentation page itself
+description: All energy used in the production of one crop in one year from pre-planting activities to the first point of sale.
+toc: true
+format: gfm
+output-file: table-metadata.md
+---
+
+# Crop Yield Units and Moisture
+
+| name              | description | units                     |
+|-------------------|-------------|---------------------------|
+| crop              | Crop name   |                           |
+| yield_unit        |             | bu, cwt, lbs, ton, barrel |
+| description       |             |                           |
+| lbs_per_unit      |             | lbs                       |
+| kg_per_unit       |             | kg                        |
+| standard_moisture |             | percent as decimal        |
+| standard_dm       |             | percent as decimal        |
+| last_updated      |             | yyyy-mm-dd                |
+| notes             |             |                           |

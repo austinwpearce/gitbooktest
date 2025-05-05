@@ -1,0 +1,561 @@
+manure_region,animal_category,moisture_designation,content,pct_as_applied,lbs_ton,lbs_1000_gal,lbs_ton_dry,metric,summary_level,sample_size,data_source,date_modified
+Midwest,Beef,Liquid,solids,1.19,23.7,99,2000,median,Regional,1100,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Liquid,total_c,0.078,1.56,6.51,131,median,Regional,1100,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Liquid,total_n,0.071,1.42,5.92,120,median,Regional,1100,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Liquid,nh4,0.012,0.24,1,20.2,median,Regional,1100,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Liquid,p2o5,0.05,1,4.17,84.2,median,Regional,1100,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Slurry,solids,7.41,148,618,2000,median,Regional,1515,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Slurry,total_c,1.68,33.5,140,452,median,Regional,1515,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Slurry,total_n,0.5,10,41.7,135,median,Regional,1515,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Slurry,nh4,0.29,5.8,24.2,78.3,median,Regional,1515,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Slurry,p2o5,0.27,5.4,22.5,72.9,median,Regional,1515,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Semi-solid,solids,13.3,266,NA,2000,median,Regional,1659,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Semi-solid,total_c,6.42,128,NA,967,median,Regional,1659,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Semi-solid,total_n,0.67,13.4,NA,101,median,Regional,1659,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Semi-solid,nh4,0.376,7.52,NA,56.6,median,Regional,1659,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Semi-solid,p2o5,0.35,7,NA,52.7,median,Regional,1659,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Solid,solids,32.3,645,NA,2000,median,Regional,6186,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Solid,total_c,6.54,131,NA,405,median,Regional,6186,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Solid,total_n,0.78,15.6,NA,48.3,median,Regional,6186,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Solid,nh4,0.07,1.4,NA,4.34,median,Regional,6186,ManureDB 2014-2023,7/1/2024
+Midwest,Beef,Solid,p2o5,0.47,9.4,NA,29.1,median,Regional,6186,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Liquid,solids,2.57,51.3,214,2000,median,Regional,18876,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Liquid,total_c,0.543,10.9,45.3,423,median,Regional,18876,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Liquid,total_n,0.166,3.32,13.8,129,median,Regional,18876,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Liquid,nh4,0.09,1.8,7.51,70.1,median,Regional,18876,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Liquid,p2o5,0.06,1.2,5,46.8,median,Regional,18876,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Slurry,solids,5.78,116,482,2000,median,Regional,22331,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Slurry,total_c,1.46,29.1,121,504,median,Regional,22331,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Slurry,total_n,0.259,5.18,21.6,89.6,median,Regional,22331,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Slurry,nh4,0.12,2.4,10,41.5,median,Regional,22331,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Slurry,p2o5,0.11,2.2,9.17,38.1,median,Regional,22331,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Semi-solid,solids,13.8,276,NA,2000,median,Regional,4929,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Semi-solid,total_c,4.12,82.4,NA,596,median,Regional,4929,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Semi-solid,total_n,0.33,6.6,NA,47.8,median,Regional,4929,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Semi-solid,nh4,0.11,2.2,NA,15.9,median,Regional,4929,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Semi-solid,p2o5,0.134,2.68,NA,19.4,median,Regional,4929,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Solid,solids,33.1,661,NA,2000,median,Regional,10026,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Solid,total_c,11,221,NA,668,median,Regional,10026,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Solid,total_n,0.49,9.8,NA,29.6,median,Regional,10026,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Solid,nh4,0.062,1.25,NA,3.78,median,Regional,10026,ManureDB 2014-2023,7/1/2024
+Midwest,Dairy,Solid,p2o5,0.211,4.21,NA,12.7,median,Regional,10026,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Liquid,solids,0.52,10.4,43.4,2000,median,Regional,206,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Liquid,total_c,0.038,0.766,3.19,147,median,Regional,206,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Liquid,total_n,0.1,2,8.34,385,median,Regional,206,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Liquid,nh4,0.11,2.2,9.17,423,median,Regional,206,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Liquid,p2o5,0.05,1,4.17,192,median,Regional,206,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Slurry,solids,6.34,127,529,2000,median,Regional,76,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Slurry,total_c,2.44,48.9,204,771,median,Regional,76,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Slurry,total_n,0.64,12.8,53.4,202,median,Regional,76,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Slurry,nh4,0.47,9.4,39.2,148,median,Regional,76,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Slurry,p2o5,0.365,7.3,30.4,115,median,Regional,76,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Semi-solid,solids,17.3,345,NA,2000,median,Regional,39,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Semi-solid,total_c,5.9,118,NA,683,median,Regional,39,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Semi-solid,total_n,0.77,15.4,NA,89.2,median,Regional,39,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Semi-solid,nh4,0.17,3.4,NA,19.7,median,Regional,39,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Semi-solid,p2o5,0.82,16.4,NA,95,median,Regional,39,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Solid,solids,58.6,1172,NA,2000,median,Regional,18145,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Solid,total_c,13.8,275,NA,469,median,Regional,18145,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Solid,total_n,2.57,51.4,NA,87.7,median,Regional,18145,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Solid,nh4,0.54,10.8,NA,18.4,median,Regional,18145,ManureDB 2014-2023,7/1/2024
+Midwest,Poultry,Solid,p2o5,2.09,41.9,NA,71.4,median,Regional,18145,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Liquid,solids,1.99,39.8,166,2000,median,Regional,37329,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Liquid,total_c,0.586,11.7,48.9,589,median,Regional,37329,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Liquid,total_n,0.31,6.2,25.9,312,median,Regional,37329,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Liquid,nh4,0.22,4.4,18.3,221,median,Regional,37329,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Liquid,p2o5,0.12,2.4,10,121,median,Regional,37329,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Slurry,solids,6.13,123,511,2000,median,Regional,37128,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Slurry,total_c,1.83,36.7,153,598,median,Regional,37128,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Slurry,total_n,0.65,13,54.2,212,median,Regional,37128,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Slurry,nh4,0.417,8.34,34.8,136,median,Regional,37128,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Slurry,p2o5,0.32,6.4,26.7,104,median,Regional,37128,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Semi-solid,solids,11.2,225,NA,2000,median,Regional,4738,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Semi-solid,total_c,1.82,36.5,NA,325,median,Regional,4738,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Semi-solid,total_n,0.87,17.4,NA,155,median,Regional,4738,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Semi-solid,nh4,0.53,10.6,NA,94.3,median,Regional,4738,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Semi-solid,p2o5,0.47,9.4,NA,83.6,median,Regional,4738,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Solid,solids,40.4,807,NA,2000,median,Regional,668,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Solid,total_c,17.6,353,NA,873,median,Regional,668,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Solid,total_n,0.87,17.4,NA,43.1,median,Regional,668,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Solid,nh4,0.152,3.04,NA,7.53,median,Regional,668,ManureDB 2014-2023,7/1/2024
+Midwest,Swine,Solid,p2o5,1.06,21.3,NA,52.8,median,Regional,668,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Liquid,solids,0.664,13.3,55.4,2000,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Liquid,total_c,0.078,1.56,6.51,235,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Liquid,total_n,0.052,1.05,4.36,157,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Liquid,nh4,0.011,0.225,0.937,33.8,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Liquid,p2o5,0.012,0.237,0.987,35.6,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Slurry,solids,8.87,177,740,2000,median,Regional,8,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Slurry,total_c,1.68,33.5,140,377,median,Regional,8,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Slurry,total_n,0.303,6.06,25.3,68.3,median,Regional,8,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Slurry,nh4,0.073,1.46,6.07,16.4,median,Regional,8,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Slurry,p2o5,0.127,2.55,10.6,28.7,median,Regional,8,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Semi-solid,solids,16.4,328,NA,2000,median,Regional,138,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Semi-solid,total_c,6.3,126,NA,768,median,Regional,138,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Semi-solid,total_n,0.355,7.1,NA,43.3,median,Regional,138,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Semi-solid,nh4,0.017,0.343,NA,2.09,median,Regional,138,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Semi-solid,p2o5,0.192,3.84,NA,23.4,median,Regional,138,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Solid,solids,28.1,562,NA,2000,median,Regional,454,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Solid,total_c,11.6,232,NA,825,median,Regional,454,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Solid,total_n,0.65,13,NA,46.3,median,Regional,454,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Solid,nh4,0.03,0.607,NA,2.16,median,Regional,454,ManureDB 2014-2023,7/1/2024
+Northeast,Beef,Solid,p2o5,0.345,6.89,NA,24.5,median,Regional,454,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Liquid,solids,1.94,38.7,162,2000,median,Regional,1643,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Liquid,total_c,0.689,13.8,57.5,712,median,Regional,1643,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Liquid,total_n,0.13,2.6,10.8,134,median,Regional,1643,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Liquid,nh4,0.064,1.27,5.31,65.8,median,Regional,1643,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Liquid,p2o5,0.045,0.898,3.74,46.4,median,Regional,1643,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Slurry,solids,6.45,129,538,2000,median,Regional,2237,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Slurry,total_c,2.72,54.4,227,843,median,Regional,2237,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Slurry,total_n,0.273,5.46,22.8,84.6,median,Regional,2237,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Slurry,nh4,0.124,2.47,10.3,38.3,median,Regional,2237,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Slurry,p2o5,0.108,2.16,9,33.4,median,Regional,2237,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Semi-solid,solids,14.6,293,NA,2000,median,Regional,2055,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Semi-solid,total_c,6.74,135,NA,920,median,Regional,2055,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Semi-solid,total_n,0.397,7.94,NA,54.2,median,Regional,2055,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Semi-solid,nh4,0.112,2.24,NA,15.3,median,Regional,2055,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Semi-solid,p2o5,0.167,3.33,NA,22.8,median,Regional,2055,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Solid,solids,29.8,596,NA,2000,median,Regional,2666,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Solid,total_c,11.8,236,NA,792,median,Regional,2666,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Solid,total_n,0.453,9.06,NA,30.4,median,Regional,2666,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Solid,nh4,0.066,1.32,NA,4.42,median,Regional,2666,ManureDB 2014-2023,7/1/2024
+Northeast,Dairy,Solid,p2o5,0.219,4.38,NA,14.7,median,Regional,2666,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Liquid,solids,1.04,20.8,86.9,2000,median,Regional,19,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Liquid,total_c,0.038,0.766,3.19,73.5,median,Regional,19,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Liquid,total_n,0.15,3,12.5,288,median,Regional,19,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Liquid,nh4,0.062,1.25,5.19,120,median,Regional,19,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Liquid,p2o5,0.04,0.805,3.36,77.3,median,Regional,19,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Slurry,solids,8.39,168,700,2000,median,Regional,6,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Slurry,total_c,2.44,48.9,204,582,median,Regional,6,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Slurry,total_n,0.364,7.29,30.4,86.9,median,Regional,6,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Slurry,nh4,0.129,2.57,10.7,30.7,median,Regional,6,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Slurry,p2o5,0.207,4.14,17.2,49.3,median,Regional,6,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Semi-solid,solids,16.6,331,NA,2000,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Semi-solid,total_c,5.9,118,NA,712,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Semi-solid,total_n,0.733,14.7,NA,88.4,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Semi-solid,nh4,0.31,6.2,NA,37.4,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Semi-solid,p2o5,0.596,11.9,NA,71.9,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Solid,solids,64.9,1299,NA,2000,median,Regional,1553,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Solid,total_c,33.6,672,NA,1034,median,Regional,1553,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Solid,total_n,2.66,53.3,NA,82.1,median,Regional,1553,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Solid,nh4,0.351,7.01,NA,10.8,median,Regional,1553,ManureDB 2014-2023,7/1/2024
+Northeast,Poultry,Solid,p2o5,2.24,44.8,NA,69,median,Regional,1553,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Liquid,solids,1.27,25.4,106,2000,median,Regional,340,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Liquid,total_c,0.192,3.84,16,303,median,Regional,340,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Liquid,total_n,0.272,5.45,22.7,430,median,Regional,340,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Liquid,nh4,0.174,3.48,14.5,275,median,Regional,340,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Liquid,p2o5,0.06,1.2,5.02,95,median,Regional,340,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Slurry,solids,5.99,120,499,2000,median,Regional,136,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Slurry,total_c,1.83,36.6,153,611,median,Regional,136,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Slurry,total_n,0.55,11,45.8,184,median,Regional,136,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Slurry,nh4,0.305,6.1,25.4,102,median,Regional,136,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Slurry,p2o5,0.465,9.3,38.8,155,median,Regional,136,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Semi-solid,solids,12.5,249,NA,2000,median,Regional,37,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Semi-solid,total_c,1.82,36.5,NA,293,median,Regional,37,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Semi-solid,total_n,0.732,14.6,NA,118,median,Regional,37,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Semi-solid,nh4,0.39,7.79,NA,62.6,median,Regional,37,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Semi-solid,p2o5,0.709,14.2,NA,114,median,Regional,37,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Solid,solids,38.7,774,NA,2000,median,Regional,85,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Solid,total_c,10.2,204,NA,527,median,Regional,85,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Solid,total_n,1.18,23.5,NA,60.7,median,Regional,85,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Solid,nh4,0.196,3.92,NA,10.1,median,Regional,85,ManureDB 2014-2023,7/1/2024
+Northeast,Swine,Solid,p2o5,0.95,19,NA,49.1,median,Regional,85,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Liquid,solids,0.1,2,8.34,2000,median,Regional,297,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Liquid,total_c,0.078,1.56,6.51,1560,median,Regional,297,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Liquid,total_n,0.025,0.494,2.06,494,median,Regional,297,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Liquid,nh4,0.01,0.192,0.801,192,median,Regional,297,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Liquid,p2o5,0.012,0.24,1,240,median,Regional,297,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Slurry,solids,8.12,162,677,2000,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Slurry,total_c,1.68,33.5,140,413,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Slurry,total_n,0.61,12.2,50.9,150,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Slurry,nh4,0.43,8.6,35.9,106,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Slurry,p2o5,0.252,5.04,21,62.1,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Semi-solid,solids,12,240,NA,2000,median,Regional,20,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Semi-solid,total_c,4.48,89.5,NA,746,median,Regional,20,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Semi-solid,total_n,0.801,16,NA,134,median,Regional,20,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Semi-solid,nh4,0.55,11,NA,91.7,median,Regional,20,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Semi-solid,p2o5,0.408,8.15,NA,67.9,median,Regional,20,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Solid,solids,60.3,1206,NA,2000,median,Regional,241,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Solid,total_c,10.7,213,NA,353,median,Regional,241,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Solid,total_n,0.859,17.2,NA,28.5,median,Regional,241,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Solid,nh4,0.17,3.4,NA,5.64,median,Regional,241,ManureDB 2014-2023,7/1/2024
+Northern Plains,Beef,Solid,p2o5,0.892,17.8,NA,29.6,median,Regional,241,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Liquid,solids,2.44,48.9,204,2000,median,Regional,309,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Liquid,total_c,0.62,12.4,51.7,508,median,Regional,309,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Liquid,total_n,0.179,3.58,14.9,147,median,Regional,309,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Liquid,nh4,0.095,1.9,7.91,77.6,median,Regional,309,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Liquid,p2o5,0.05,1.01,4.2,41.2,median,Regional,309,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Slurry,solids,5.47,109,456,2000,median,Regional,317,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Slurry,total_c,1.68,33.5,140,613,median,Regional,317,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Slurry,total_n,0.255,5.1,21.3,93.3,median,Regional,317,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Slurry,nh4,0.115,2.3,9.59,42.1,median,Regional,317,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Slurry,p2o5,0.083,1.65,6.89,30.2,median,Regional,317,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Semi-solid,solids,13.1,262,NA,2000,median,Regional,84,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Semi-solid,total_c,5.73,115,NA,876,median,Regional,84,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Semi-solid,total_n,0.298,5.97,NA,45.6,median,Regional,84,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Semi-solid,nh4,0.11,2.19,NA,16.7,median,Regional,84,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Semi-solid,p2o5,0.104,2.09,NA,15.9,median,Regional,84,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Solid,solids,37.9,758,NA,2000,median,Regional,196,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Solid,total_c,10.9,218,NA,575,median,Regional,196,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Solid,total_n,0.527,10.5,NA,27.8,median,Regional,196,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Solid,nh4,0.093,1.86,NA,4.9,median,Regional,196,ManureDB 2014-2023,7/1/2024
+Northern Plains,Dairy,Solid,p2o5,0.23,4.61,NA,12.1,median,Regional,196,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Liquid,solids,2.58,51.6,215,2000,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Liquid,total_c,0.038,0.766,3.19,29.7,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Liquid,total_n,0.51,10.2,42.5,395,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Liquid,nh4,0.342,6.83,28.5,265,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Liquid,p2o5,0.16,3.2,13.3,124,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Slurry,solids,4.92,98.4,410,2000,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Slurry,total_c,2.44,48.9,204,993,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Slurry,total_n,0.51,10.2,42.5,207,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Slurry,nh4,0.39,7.79,32.5,158,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Slurry,p2o5,0.28,5.6,23.4,114,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Semi-solid,solids,16.9,339,NA,2000,median,National,77,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Semi-solid,total_c,5.9,118,NA,697,median,National,77,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Semi-solid,total_n,0.688,13.8,NA,81.3,median,National,77,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Semi-solid,nh4,0.27,5.4,NA,31.9,median,National,77,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Semi-solid,p2o5,0.91,18.2,NA,108,median,National,77,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Solid,solids,73.8,1476,NA,2000,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Solid,total_c,25.6,513,NA,695,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Solid,total_n,2.42,48.4,NA,65.6,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Solid,nh4,0.256,5.12,NA,6.93,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Poultry,Solid,p2o5,2.91,58.2,NA,78.9,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Liquid,solids,1.6,32,133,2000,median,Regional,383,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Liquid,total_c,0.192,3.84,16,240,median,Regional,383,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Liquid,total_n,0.245,4.9,20.4,306,median,Regional,383,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Liquid,nh4,0.17,3.4,14.2,213,median,Regional,383,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Liquid,p2o5,0.085,1.7,7.09,106,median,Regional,383,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Slurry,solids,6.4,128,534,2000,median,Regional,370,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Slurry,total_c,1.83,36.6,153,571,median,Regional,370,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Slurry,total_n,0.647,12.9,53.9,202,median,Regional,370,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Slurry,nh4,0.46,9.2,38.4,144,median,Regional,370,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Slurry,p2o5,0.376,7.52,31.4,117,median,Regional,370,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Semi-solid,solids,11.1,222,NA,2000,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Semi-solid,total_c,1.82,36.5,NA,329,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Semi-solid,total_n,0.824,16.5,NA,149,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Semi-solid,nh4,0.59,11.8,NA,106,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Semi-solid,p2o5,0.467,9.34,NA,84.3,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Solid,solids,58.5,1169,NA,2000,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Solid,total_c,17.6,353,NA,603,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Solid,total_n,0.851,17,NA,29.1,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Solid,nh4,0.2,4,NA,6.84,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Northern Plains,Swine,Solid,p2o5,2.51,50.1,NA,85.8,median,Regional,32,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Liquid,solids,0.1,2,8.34,2000,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Liquid,total_c,0.078,1.56,6.51,1560,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Liquid,total_n,0.048,0.968,4.04,968,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Liquid,nh4,0.018,0.36,1.5,360,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Liquid,p2o5,0.034,0.68,2.84,680,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Slurry,solids,7.4,148,617,2000,median,National,1636,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Slurry,total_c,1.68,33.5,140,453,median,National,1636,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Slurry,total_n,0.49,9.8,40.9,132,median,National,1636,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Slurry,nh4,0.29,5.8,24.2,78.4,median,National,1636,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Slurry,p2o5,0.26,5.2,21.7,70.3,median,National,1636,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Semi-solid,solids,13.6,271,NA,2000,median,National,1890,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Semi-solid,total_c,6.42,128,NA,948,median,National,1890,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Semi-solid,total_n,0.65,13,NA,95.9,median,National,1890,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Semi-solid,nh4,0.33,6.6,NA,48.7,median,National,1890,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Semi-solid,p2o5,0.334,6.68,NA,49.3,median,National,1890,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Solid,solids,53.5,1070,NA,2000,median,Regional,17,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Solid,total_c,11.8,235,NA,440,median,Regional,17,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Solid,total_n,0.827,16.5,NA,30.9,median,Regional,17,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Solid,nh4,0.053,1.06,NA,1.98,median,Regional,17,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Beef,Solid,p2o5,0.62,12.4,NA,23.2,median,Regional,17,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Liquid,solids,0.881,17.6,73.5,2000,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Liquid,total_c,0.62,12.4,51.7,1407,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Liquid,total_n,0.071,1.42,5.91,161,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Liquid,nh4,0.045,0.892,3.72,101,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Liquid,p2o5,0.017,0.339,1.41,38.5,median,Regional,57,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Slurry,solids,5.82,116,485,2000,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Slurry,total_c,1.68,33.5,140,576,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Slurry,total_n,0.219,4.38,18.3,75.2,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Slurry,nh4,0.066,1.31,5.48,22.6,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Slurry,p2o5,0.087,1.74,7.24,29.8,median,Regional,5,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Semi-solid,solids,13.7,275,NA,2000,median,Regional,18,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Semi-solid,total_c,5.73,115,NA,834,median,Regional,18,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Semi-solid,total_n,0.322,6.44,NA,46.8,median,Regional,18,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Semi-solid,nh4,0.059,1.17,NA,8.55,median,Regional,18,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Semi-solid,p2o5,0.188,3.76,NA,27.3,median,Regional,18,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Solid,solids,28.8,576,NA,2000,median,Regional,33,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Solid,total_c,11.2,224,NA,778,median,Regional,33,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Solid,total_n,0.608,12.2,NA,42.3,median,Regional,33,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Solid,nh4,0.057,1.15,NA,3.98,median,Regional,33,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Dairy,Solid,p2o5,0.432,8.63,NA,30,median,Regional,33,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Liquid,solids,0.1,2,8.34,2000,median,National,938,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Liquid,total_c,0.038,0.766,3.19,766,median,National,938,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Liquid,total_n,0.08,1.6,6.68,1602,median,National,938,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Liquid,nh4,0.21,4.2,17.5,4200,median,National,938,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Liquid,p2o5,0.04,0.8,3.34,800,median,National,938,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Slurry,solids,6.38,128,532,2000,median,National,95,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Slurry,total_c,2.44,48.9,204,766,median,National,95,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Slurry,total_n,0.58,11.6,48.4,182,median,National,95,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Slurry,nh4,0.375,7.5,31.3,117,median,National,95,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Slurry,p2o5,0.366,7.32,30.5,115,median,National,95,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Semi-solid,solids,16.9,339,NA,2000,median,National,77,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Semi-solid,total_c,5.9,118,NA,697,median,National,77,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Semi-solid,total_n,0.688,13.8,NA,81.3,median,National,77,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Semi-solid,nh4,0.27,5.4,NA,31.9,median,National,77,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Semi-solid,p2o5,0.91,18.2,NA,108,median,National,77,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Solid,solids,66.6,1332,NA,2000,median,National,41464,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Solid,total_c,25.6,513,NA,770,median,National,41464,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Solid,total_n,2.63,52.6,NA,79,median,National,41464,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Solid,nh4,0.43,8.6,NA,12.9,median,National,41464,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Poultry,Solid,p2o5,2.36,47.2,NA,70.8,median,National,41464,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Liquid,solids,1.89,37.8,158,2000,median,National,133950,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Liquid,total_c,0.192,3.84,16,203,median,National,133950,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Liquid,total_n,0.042,0.834,3.48,44.1,median,National,133950,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Liquid,nh4,0.2,4,16.7,212,median,National,133950,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Liquid,p2o5,0.011,0.21,0.877,11.1,median,National,133950,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Slurry,solids,6.13,123,511,2000,median,National,38113,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Slurry,total_c,1.83,36.6,153,597,median,National,38113,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Slurry,total_n,0.65,13,54.2,212,median,National,38113,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Slurry,nh4,0.414,8.28,34.5,135,median,National,38113,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Slurry,p2o5,0.32,6.4,26.7,104,median,National,38113,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Semi-solid,solids,11.2,225,NA,2000,median,National,4849,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Semi-solid,total_c,1.82,36.5,NA,325,median,National,4849,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Semi-solid,total_n,0.87,17.4,NA,155,median,National,4849,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Semi-solid,nh4,0.531,10.6,NA,94.5,median,National,4849,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Semi-solid,p2o5,0.474,9.48,NA,84.3,median,National,4849,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Solid,solids,42.1,841,NA,2000,median,National,853,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Solid,total_c,17.6,353,NA,838,median,National,853,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Solid,total_n,0.88,17.6,NA,41.8,median,National,853,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Solid,nh4,0.16,3.2,NA,7.61,median,National,853,ManureDB 2014-2023,7/1/2024
+Pacific Northwest,Swine,Solid,p2o5,1.13,22.6,NA,53.7,median,National,853,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Liquid,solids,2.34,46.8,195,2000,median,Regional,190,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Liquid,total_c,0.078,1.56,6.51,66.7,median,Regional,190,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Liquid,total_n,0.012,0.234,0.978,10,median,Regional,190,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Liquid,nh4,0.001,0.026,0.107,1.1,median,Regional,190,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Liquid,p2o5,0.01,0.198,0.826,8.47,median,Regional,190,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Slurry,solids,6.29,126,525,2000,median,Regional,91,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Slurry,total_c,1.68,33.5,140,532,median,Regional,91,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Slurry,total_n,0.068,1.36,5.68,21.6,median,Regional,91,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Slurry,nh4,0.005,0.102,0.423,1.61,median,Regional,91,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Slurry,p2o5,0.113,2.26,9.44,36,median,Regional,91,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Semi-solid,solids,16.8,336,NA,2000,median,Regional,66,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Semi-solid,total_c,6.42,128,NA,765,median,Regional,66,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Semi-solid,total_n,0.337,6.73,NA,40.1,median,Regional,66,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Semi-solid,nh4,0.014,0.285,NA,1.7,median,Regional,66,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Semi-solid,p2o5,0.231,4.62,NA,27.6,median,Regional,66,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Solid,solids,37.7,754,NA,2000,median,Regional,551,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Solid,total_c,10.7,213,NA,565,median,Regional,551,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Solid,total_n,0.723,14.5,NA,38.4,median,Regional,551,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Solid,nh4,0.02,0.396,NA,1.05,median,Regional,551,ManureDB 2014-2023,7/1/2024
+Southeast,Beef,Solid,p2o5,0.485,9.7,NA,25.7,median,Regional,551,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Liquid,solids,1.27,25.4,106,2000,median,Regional,1543,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Liquid,total_c,0.62,12.4,51.7,978,median,Regional,1543,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Liquid,total_n,0.007,0.147,0.614,11.6,median,Regional,1543,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Liquid,nh4,0,0.01,0.042,0.786,median,Regional,1543,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Liquid,p2o5,0.012,0.238,0.992,18.8,median,Regional,1543,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Slurry,solids,6.29,126,524,2000,median,Regional,3051,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Slurry,total_c,2.17,43.4,181,690,median,Regional,3051,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Slurry,total_n,0.102,2.04,8.52,32.5,median,Regional,3051,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Slurry,nh4,0.008,0.154,0.644,2.46,median,Regional,3051,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Slurry,p2o5,0.065,1.3,5.44,20.8,median,Regional,3051,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Semi-solid,solids,15.4,309,NA,2000,median,Regional,626,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Semi-solid,total_c,5.73,115,NA,743,median,Regional,626,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Semi-solid,total_n,0.311,6.21,NA,40.2,median,Regional,626,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Semi-solid,nh4,0.015,0.304,NA,1.97,median,Regional,626,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Semi-solid,p2o5,0.205,4.1,NA,26.5,median,Regional,626,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Solid,solids,37.2,744,NA,2000,median,Regional,1476,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Solid,total_c,22.4,448,NA,1204,median,Regional,1476,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Solid,total_n,0.631,12.6,NA,33.9,median,Regional,1476,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Solid,nh4,0.021,0.411,NA,1.11,median,Regional,1476,ManureDB 2014-2023,7/1/2024
+Southeast,Dairy,Solid,p2o5,0.368,7.35,NA,19.8,median,Regional,1476,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Liquid,solids,0.1,2,8.34,2000,median,Regional,573,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Liquid,total_c,0.038,0.766,3.19,766,median,Regional,573,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Liquid,total_n,0.04,0.794,3.31,794,median,Regional,573,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Liquid,nh4,0.188,3.76,15.7,3760,median,Regional,573,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Liquid,p2o5,0.012,0.244,1.02,244,median,Regional,573,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Slurry,solids,8.18,164,683,2000,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Slurry,total_c,2.44,48.9,204,597,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Slurry,total_n,0.151,3.03,12.6,37,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Slurry,nh4,0.003,0.064,0.266,0.78,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Slurry,p2o5,0.629,12.6,52.4,154,median,Regional,12,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Semi-solid,solids,16.8,337,NA,2000,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Semi-solid,total_c,5.9,118,NA,701,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Semi-solid,total_n,0.489,9.77,NA,58.1,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Semi-solid,nh4,0.125,2.5,NA,14.8,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Semi-solid,p2o5,1.31,26.2,NA,156,median,Regional,21,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Solid,solids,73.2,1463,NA,2000,median,Regional,21362,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Solid,total_c,13.6,272,NA,371,median,Regional,21362,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Solid,total_n,2.68,53.6,NA,73.3,median,Regional,21362,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Solid,nh4,0.392,7.85,NA,10.7,median,Regional,21362,ManureDB 2014-2023,7/1/2024
+Southeast,Poultry,Solid,p2o5,2.57,51.4,NA,70.3,median,Regional,21362,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Liquid,solids,0.435,8.69,36.2,2000,median,Regional,95780,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Liquid,total_c,1.96,39.2,163,9019,median,Regional,95780,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Liquid,total_n,0.032,0.643,2.68,148,median,Regional,95780,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Liquid,nh4,0,0.006,0.025,1.35,median,Regional,95780,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Liquid,p2o5,0.009,0.171,0.711,39.3,median,Regional,95780,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Slurry,solids,5.74,115,478,2000,median,Regional,477,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Slurry,total_c,1.83,36.6,153,638,median,Regional,477,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Slurry,total_n,0.193,3.87,16.1,67.5,median,Regional,477,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Slurry,nh4,0.009,0.171,0.713,2.98,median,Regional,477,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Slurry,p2o5,0.238,4.76,19.9,83,median,Regional,477,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Semi-solid,solids,12,240,NA,2000,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Semi-solid,total_c,1.82,36.5,NA,304,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Semi-solid,total_n,0.252,5.04,NA,42,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Semi-solid,nh4,0.024,0.476,NA,3.97,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Semi-solid,p2o5,1.25,24.9,NA,208,median,Regional,16,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Solid,solids,67.1,1342,NA,2000,median,Regional,64,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Solid,total_c,36.2,724,NA,1079,median,Regional,64,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Solid,total_n,0.64,12.8,NA,19.1,median,Regional,64,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Solid,nh4,0.125,2.49,NA,3.71,median,Regional,64,ManureDB 2014-2023,7/1/2024
+Southeast,Swine,Solid,p2o5,1.06,21.2,NA,31.6,median,Regional,64,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Liquid,solids,0.1,2,8.34,2000,median,Regional,1717,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Liquid,total_c,0.078,1.56,6.51,1560,median,Regional,1717,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Liquid,total_n,0.674,13.5,56.2,13480,median,Regional,1717,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Liquid,nh4,0.018,0.358,1.49,358,median,Regional,1717,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Liquid,p2o5,0.666,13.3,55.5,13320,median,Regional,1717,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Slurry,solids,8.4,168,701,2000,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Slurry,total_c,1.68,33.5,140,399,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Slurry,total_n,0.753,15.1,62.8,179,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Slurry,nh4,0.51,10.2,42.5,121,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Slurry,p2o5,0.282,5.64,23.5,67.1,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Semi-solid,solids,15.4,309,NA,2000,median,Regional,7,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Semi-solid,total_c,7.19,144,NA,931,median,Regional,7,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Semi-solid,total_n,0.232,4.64,NA,30.1,median,Regional,7,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Semi-solid,nh4,0.33,6.6,NA,42.7,median,Regional,7,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Semi-solid,p2o5,0.142,2.84,NA,18.4,median,Regional,7,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Solid,solids,68.7,1373,NA,2000,median,Regional,51,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Solid,total_c,13.4,268,NA,391,median,Regional,51,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Solid,total_n,1.09,21.7,NA,31.6,median,Regional,51,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Solid,nh4,0.11,2.2,NA,3.2,median,Regional,51,ManureDB 2014-2023,7/1/2024
+Southern Plains,Beef,Solid,p2o5,0.921,18.4,NA,26.8,median,Regional,51,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Liquid,solids,0.1,2,8.34,2000,median,Regional,627,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Liquid,total_c,0.62,12.4,51.7,12400,median,Regional,627,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Liquid,total_n,0.407,8.14,33.9,8140,median,Regional,627,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Liquid,nh4,0.042,0.84,3.5,840,median,Regional,627,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Liquid,p2o5,0.201,4.02,16.8,4020,median,Regional,627,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Slurry,solids,5.9,118,492,2000,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Slurry,total_c,1.68,33.5,140,568,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Slurry,total_n,0.611,12.2,51,207,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Slurry,nh4,0.43,8.6,35.9,146,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Slurry,p2o5,0.256,5.13,21.4,86.9,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Semi-solid,solids,14.4,288,NA,2000,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Semi-solid,total_c,5.73,115,NA,796,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Semi-solid,total_n,0.228,4.55,NA,31.6,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Semi-solid,nh4,0.106,2.12,NA,14.7,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Semi-solid,p2o5,0.08,1.59,NA,11,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Solid,solids,77.5,1551,NA,2000,median,Regional,10,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Solid,total_c,11.2,224,NA,289,median,Regional,10,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Solid,total_n,0.95,19,NA,24.5,median,Regional,10,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Solid,nh4,0.19,3.8,NA,4.9,median,Regional,10,ManureDB 2014-2023,7/1/2024
+Southern Plains,Dairy,Solid,p2o5,0.693,13.9,NA,17.9,median,Regional,10,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Liquid,solids,0.1,2,8.34,2000,median,Regional,139,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Liquid,total_c,0.038,0.766,3.19,766,median,Regional,139,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Liquid,total_n,2.79,55.7,232,55720,median,Regional,139,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Liquid,nh4,0.288,5.76,24,5760,median,Regional,139,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Liquid,p2o5,2.46,49.3,205,49260,median,Regional,139,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Slurry,solids,6.38,128,532,2000,median,National,95,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Slurry,total_c,2.44,48.9,204,766,median,National,95,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Slurry,total_n,0.58,11.6,48.4,182,median,National,95,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Slurry,nh4,0.375,7.5,31.3,117,median,National,95,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Slurry,p2o5,0.366,7.32,30.5,115,median,National,95,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Semi-solid,solids,13.5,269,NA,2000,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Semi-solid,total_c,5.9,118,NA,877,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Semi-solid,total_n,1.04,20.9,NA,155,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Semi-solid,nh4,0.27,5.4,NA,40.1,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Semi-solid,p2o5,0.916,18.3,NA,136,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Solid,solids,74.3,1486,NA,2000,median,Regional,320,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Solid,total_c,26.3,526,NA,709,median,Regional,320,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Solid,total_n,2.89,57.8,NA,77.8,median,Regional,320,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Solid,nh4,0.192,3.85,NA,5.18,median,Regional,320,ManureDB 2014-2023,7/1/2024
+Southern Plains,Poultry,Solid,p2o5,3.26,65.3,NA,87.9,median,Regional,320,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Liquid,solids,0.1,2,8.34,2000,median,Regional,118,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Liquid,total_c,0.18,3.59,15,3590,median,Regional,118,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Liquid,total_n,0.139,2.77,11.6,2772,median,Regional,118,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Liquid,nh4,0.072,1.45,6.05,1450,median,Regional,118,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Liquid,p2o5,0.025,0.497,2.07,497,median,Regional,118,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Slurry,solids,5.3,106,442,2000,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Slurry,total_c,0.164,3.28,13.7,61.9,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Slurry,total_n,0.166,3.32,13.8,62.7,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Slurry,nh4,0.1,2,8.34,37.8,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Slurry,p2o5,0.264,5.28,22,99.7,median,Regional,2,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Semi-solid,solids,13.1,262,NA,2000,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Semi-solid,total_c,1.82,36.5,NA,278,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Semi-solid,total_n,0.163,3.26,NA,24.8,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Semi-solid,nh4,0.531,10.6,NA,81,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Semi-solid,p2o5,3.34,66.8,NA,509,median,Regional,1,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Solid,solids,57.1,1143,NA,2000,median,Regional,4,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Solid,total_c,15.2,303,NA,531,median,Regional,4,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Solid,total_n,1.66,33.2,NA,58.1,median,Regional,4,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Solid,nh4,0.16,3.2,NA,5.6,median,Regional,4,ManureDB 2014-2023,7/1/2024
+Southern Plains,Swine,Solid,p2o5,4.62,92.4,NA,162,median,Regional,4,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Liquid,solids,0.1,2,8.34,2000,median,National,3321,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Liquid,total_c,0.078,1.56,6.51,1560,median,National,3321,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Liquid,total_n,0.074,1.49,6.21,1490,median,National,3321,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Liquid,nh4,0.015,0.296,1.23,296,median,National,3321,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Liquid,p2o5,0.05,1,4.17,1000,median,National,3321,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Slurry,solids,7.4,148,617,2000,median,National,1636,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Slurry,total_c,1.68,33.5,140,453,median,National,1636,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Slurry,total_n,0.49,9.8,40.9,132,median,National,1636,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Slurry,nh4,0.29,5.8,24.2,78.4,median,National,1636,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Slurry,p2o5,0.26,5.2,21.7,70.3,median,National,1636,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Semi-solid,solids,13.6,271,NA,2000,median,National,1890,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Semi-solid,total_c,6.42,128,NA,948,median,National,1890,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Semi-solid,total_n,0.65,13,NA,95.9,median,National,1890,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Semi-solid,nh4,0.33,6.6,NA,48.7,median,National,1890,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Semi-solid,p2o5,0.334,6.68,NA,49.3,median,National,1890,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Solid,solids,44.9,897,NA,2000,median,Regional,14,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Solid,total_c,10.7,213,NA,475,median,Regional,14,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Solid,total_n,0.82,16.4,NA,36.6,median,Regional,14,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Solid,nh4,0.059,1.18,NA,2.63,median,Regional,14,ManureDB 2014-2023,7/1/2024
+Southwest,Beef,Solid,p2o5,0.538,10.8,NA,24,median,Regional,14,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Liquid,solids,0.72,14.4,60,2000,median,Regional,1902,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Liquid,total_c,0.62,12.4,51.7,1722,median,Regional,1902,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Liquid,total_n,0.048,0.95,3.96,132,median,Regional,1902,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Liquid,nh4,0.029,0.572,2.39,79.4,median,Regional,1902,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Liquid,p2o5,0.018,0.351,1.46,48.7,median,Regional,1902,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Slurry,solids,5.02,100,419,2000,median,Regional,11,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Slurry,total_c,1.68,33.5,140,667,median,Regional,11,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Slurry,total_n,0.28,5.6,23.4,112,median,Regional,11,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Slurry,nh4,0.149,2.98,12.4,59.4,median,Regional,11,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Slurry,p2o5,0.15,3,12.5,59.8,median,Regional,11,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Semi-solid,solids,17.8,356,NA,2000,median,Regional,44,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Semi-solid,total_c,5.9,118,NA,664,median,Regional,44,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Semi-solid,total_n,0.4,8,NA,45,median,Regional,44,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Semi-solid,nh4,0.106,2.12,NA,11.9,median,Regional,44,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Semi-solid,p2o5,0.2,4,NA,22.5,median,Regional,44,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Solid,solids,67.8,1357,NA,2000,median,Regional,1074,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Solid,total_c,9.83,197,NA,290,median,Regional,1074,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Solid,total_n,1.12,22.4,NA,33,median,Regional,1074,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Solid,nh4,0.019,0.385,NA,0.567,median,Regional,1074,ManureDB 2014-2023,7/1/2024
+Southwest,Dairy,Solid,p2o5,0.77,15.4,NA,22.7,median,Regional,1074,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Liquid,solids,0.1,2,8.34,2000,median,National,938,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Liquid,total_c,0.038,0.766,3.19,766,median,National,938,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Liquid,total_n,0.08,1.6,6.68,1602,median,National,938,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Liquid,nh4,0.21,4.2,17.5,4200,median,National,938,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Liquid,p2o5,0.04,0.8,3.34,800,median,National,938,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Slurry,solids,6.38,128,532,2000,median,National,95,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Slurry,total_c,2.44,48.9,204,766,median,National,95,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Slurry,total_n,0.58,11.6,48.4,182,median,National,95,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Slurry,nh4,0.375,7.5,31.3,117,median,National,95,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Slurry,p2o5,0.366,7.32,30.5,115,median,National,95,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Semi-solid,solids,16.9,339,NA,2000,median,National,77,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Semi-solid,total_c,5.9,118,NA,697,median,National,77,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Semi-solid,total_n,0.688,13.8,NA,81.3,median,National,77,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Semi-solid,nh4,0.27,5.4,NA,31.9,median,National,77,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Semi-solid,p2o5,0.91,18.2,NA,108,median,National,77,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Solid,solids,61.4,1227,NA,2000,median,Regional,52,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Solid,total_c,17,339,NA,553,median,Regional,52,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Solid,total_n,2.29,45.8,NA,74.7,median,Regional,52,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Solid,nh4,0.67,13.4,NA,21.8,median,Regional,52,ManureDB 2014-2023,7/1/2024
+Southwest,Poultry,Solid,p2o5,2.17,43.4,NA,70.7,median,Regional,52,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Liquid,solids,1.89,37.8,158,2000,median,National,133950,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Liquid,total_c,0.192,3.84,16,203,median,National,133950,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Liquid,total_n,0.042,0.834,3.48,44.1,median,National,133950,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Liquid,nh4,0.2,4,16.7,212,median,National,133950,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Liquid,p2o5,0.011,0.21,0.877,11.1,median,National,133950,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Slurry,solids,6.13,123,511,2000,median,National,38113,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Slurry,total_c,1.83,36.6,153,597,median,National,38113,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Slurry,total_n,0.65,13,54.2,212,median,National,38113,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Slurry,nh4,0.414,8.28,34.5,135,median,National,38113,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Slurry,p2o5,0.32,6.4,26.7,104,median,National,38113,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Semi-solid,solids,11.2,225,NA,2000,median,National,4849,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Semi-solid,total_c,1.82,36.5,NA,325,median,National,4849,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Semi-solid,total_n,0.87,17.4,NA,155,median,National,4849,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Semi-solid,nh4,0.531,10.6,NA,94.5,median,National,4849,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Semi-solid,p2o5,0.474,9.48,NA,84.3,median,National,4849,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Solid,solids,42.1,841,NA,2000,median,National,853,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Solid,total_c,17.6,353,NA,838,median,National,853,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Solid,total_n,0.88,17.6,NA,41.8,median,National,853,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Solid,nh4,0.16,3.2,NA,7.61,median,National,853,ManureDB 2014-2023,7/1/2024
+Southwest,Swine,Solid,p2o5,1.13,22.6,NA,53.7,median,National,853,ManureDB 2014-2023,7/1/2024
