@@ -32,7 +32,10 @@ Try searching for “Stepper”, for exampe, to insert the stepper block.
 {% step %}
 ### Insert and edit your block
 
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
+Click or press Enter to insert your block. From here, you’ll be able to edit it as needed
 {% endstep %}
 {% endstepper %}
 
+## New Heading&#x20;
+
+This is a test
